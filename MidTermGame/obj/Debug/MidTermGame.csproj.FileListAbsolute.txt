@@ -1,0 +1,2 @@
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\MidTermGame\obj\Debug\MidTermGame.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\MidTermGame\obj\Debug\MidTermGame.csproj.AssemblyReference.cache

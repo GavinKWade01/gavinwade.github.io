@@ -1,0 +1,7 @@
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\bin\Debug\guitarClassDemo.exe.config
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\bin\Debug\guitarClassDemo.exe
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\bin\Debug\guitarClassDemo.pdb
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\obj\Debug\guitarClassDemo.csprojAssemblyReference.cache
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\obj\Debug\guitarClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\obj\Debug\guitarClassDemo.exe
+C:\Users\gavin\Desktop\CollegeColumbia\Programming1\guitarClassDemo\guitarClassDemo\obj\Debug\guitarClassDemo.pdb
